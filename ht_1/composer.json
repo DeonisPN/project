@@ -1,0 +1,18 @@
+{
+    "name": "denis/pro",
+    "description": "home.task",
+    "autoload": {
+        "psr-4": {
+            "Denis\\Pro\\": "scr/"
+        }
+    },
+    "authors": [
+        { 
+            "name": "DeonisPN",
+        "email": "ponamarev.denis2011@yandex.ru"
+        }
+    ],
+    "require": {
+        "fakerphp/faker": "^1.20"
+    }
+}
